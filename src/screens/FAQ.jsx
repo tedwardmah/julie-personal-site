@@ -1,5 +1,7 @@
+import PageHeader from "../components/PageHeader/PageHeader";
+
 function FAQScreen() {
-  return <h1>FAQ</h1>;
+  return <PageHeader title="FAQ" />;
 }
 
 export default FAQScreen;

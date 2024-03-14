@@ -1,5 +1,7 @@
+import PageHeader from "../components/PageHeader/PageHeader";
+
 function ContactScreen() {
-  return <h1>Contact</h1>;
+  return <PageHeader title="Contact" />;
 }
 
 export default ContactScreen;

@@ -1,5 +1,7 @@
+import PageHeader from "../components/PageHeader/PageHeader";
+
 function AboutScreen() {
-  return <h1>About</h1>;
+  return <PageHeader title="About" />;
 }
 
 export default AboutScreen;

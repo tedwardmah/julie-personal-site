@@ -1,5 +1,7 @@
+import PageHeader from "../components/PageHeader/PageHeader";
+
 function FeesScreen() {
-  return <h1>Fees</h1>;
+  return <PageHeader title="Fees" />;
 }
 
 export default FeesScreen;

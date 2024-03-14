@@ -2,7 +2,8 @@ import "./Navigation.css";
 import lc from "../../localeContent";
 
 const navigationConfig = [
-  { label: lc.NAVIGATION.HOME, path: "/" },
+  { label: "Julie Kash, LCSW", path: "/" },
+  // { label: lc.NAVIGATION.HOME, path: "/" },
   { label: lc.NAVIGATION.ABOUT, path: "/about" },
   { label: lc.NAVIGATION.FEES, path: "/fees" },
   { label: lc.NAVIGATION.FAQ, path: "/faq" },
